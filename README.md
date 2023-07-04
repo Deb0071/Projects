@@ -16,6 +16,10 @@ Here are all my projects, feel free to Explore!!
 2)My Second project is on Web Development.
 
 Amazon clone(using html && Css)
-Created some more Web site using Bootstraps
+Created some more Websites using Bootstraps
+
+3)My third project is Email Authentication System.
+
+4)And i have done some few basic projects on JavaScript.
 
 
